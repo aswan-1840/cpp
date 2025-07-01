@@ -10,3 +10,4 @@ int main() {
 
     cout << "factorial of " <<n << "is  " <<factorial;
 }
+// this working code
